@@ -7,6 +7,7 @@ FINALIZADO
 ## Acceso al Proyecto
 Puedes probar la pagina web directamente a travez del siguiente enlace:
 [Amigo secreto en GitHub Pages](https://janet-lh.github.io/Amigo---Secreto/)
+
 Puedes clonar el repositorio para probarlo localmente:
 ```bash
 git clone https://github.com/Janet-lh/Amigo---Secreto.git
