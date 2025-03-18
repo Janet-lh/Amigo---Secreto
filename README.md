@@ -1,4 +1,5 @@
-<h1> Challenge Amigo Secreto </h1>
+<h1> aling='center' Challenge Amigo Secreto </h1>
+
 ## Descripcion del proyecto
 Esta aplicación web te permite realizar un sorteo de amigos de manera rápida y sencilla. Solo debes ingresar los nombres de tus amigos en el campo de texto y presionar el botón 'Sortear amigo'
 ## Estado del proyecto
