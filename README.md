@@ -12,5 +12,6 @@ Puedes clonar el repositorio para probarlo localmente:
 git clone https://github.com/Janet-lh/Amigo---Secreto.git
 ```
 Despues, abre el archivo `index.html` en tu navegador favorito
-
+## Demostracion Visual
+A continuacion se muestra una vista previa de la aplicacion:
 
